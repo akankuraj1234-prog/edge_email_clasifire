@@ -1,0 +1,6 @@
+{
+  "name": "Trackmind - Edge Email & Ticket Classifier with Auto-Drafting",
+  "description": "Edge-deployed hardware system on NVIDIA Jetson Orin Nano running Phi-3.5 / Llama 3.2 SLMs for zero-shot email & ticket classification, sentiment analysis, and Jinja2 auto-drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
